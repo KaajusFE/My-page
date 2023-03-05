@@ -45,7 +45,7 @@ body{
 .questions{
     border: solid wheat;
     border-radius: 20px;
-    background-color: wheat;
+    background-color: #f5deb3;
 }
 #footer{
     clear: both;
