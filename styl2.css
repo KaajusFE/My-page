@@ -4,7 +4,7 @@ body{
 #main{
     width: auto;
     font-family: 'Courier New', Courier, monospace;
-    height: 2000px;
+    height: auto;
 }
 #top{
     float: right;
