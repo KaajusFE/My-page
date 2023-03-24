@@ -225,6 +225,9 @@ body{
     text-decoration: none;
     color: rgb(15, 222, 43);
 }
+.fa{
+    color: red;
+  }
 ::-webkit-scrollbar{
     width: 5px;
 }
